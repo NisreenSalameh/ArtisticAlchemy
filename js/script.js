@@ -18,8 +18,12 @@ $(document).ready(function(){
 });
 
 //Header Background
-let header = document.querySelector('header');
+const header = document.querySelector('header');
 
 window.addEventListener('scroll', () => {
-    header.classList.toggle('shadow', window.scrollY > 0)
+    if (window.scrollY > 0) {
+        header.classList.add('shadow');
+    } else {
+        header.classList.remove('shadow');
+    }
 });
