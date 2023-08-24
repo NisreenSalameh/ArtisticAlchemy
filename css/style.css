@@ -214,3 +214,31 @@ header .shadow .logo{
     font-size: 0.82rem;
     font-weight: 500;
 }
+
+/*-----------Footer Section-------------*/
+.footer{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0;
+}
+
+.footer p{
+    font-size: 0.938rem;
+}
+
+.socials{
+    display:flex;
+    align-items: center;
+    column-gap: 1rem;
+}
+
+.socials .fa-brands{
+    font-size: 1.4rem;
+    color: var(--text-color)
+}
+
+.socials .fa-brands:hover{
+    color:var(--mint-color);
+    transition: 0.3s all linear;
+}

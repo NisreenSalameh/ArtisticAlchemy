@@ -18,7 +18,8 @@ $(document).ready(function(){
 });
 
 //Header Background
-let header = document.querySelector('header')
+let header = document.querySelector('header');
+
 window.addEventListener('scroll', () => {
     header.classList.toggle('shadow', window.scrollY > 0)
 });
