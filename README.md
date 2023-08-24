@@ -1,8 +1,8 @@
 # ArtisticAlchemy Landing Page
 Welcome to the repository for the ArtisticAlchemy Landing Page! This project showcases an eye-catching landing page designed to capture attention and convey the essence of ArtisticAlchemy's creative world. Explore the beauty of color, emotions, and artistic wonders through this visually appealing and responsive landing page.
 
-![Artistic Alchemist Landing Page Screenshot](images/artisticalchemist%20srnshot-1.png)
-![Artistic Alchemist Landing Page Screenshot](images/artisticalchemist%20srnshot-2.png)
+![Artistic Alchemist Landing Page Screenshot-Home](images/artisticalchemist%20srnshot-1.png)
+![Artistic Alchemist Landing Page Screenshot-Posts](images/artisticalchemist%20srnshot-2.png)
 
 # Features
 - Visually Stunning Design: Captivate visitors with an elegant and captivating visual design that embraces creativity.
