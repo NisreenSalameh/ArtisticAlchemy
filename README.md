@@ -18,9 +18,9 @@ Welcome to the repository for the ArtisticAlchemy Landing Page! This project sho
 
 # Usage
 1. Clone this repository to your local machine using:
-'''
+```
 git clone https://github.com/NisreenSalameh/ArtisticAlchemy.git
-'''
+```
 2. Open the index.html file in your preferred web browser to explore the captivating landing page.
 3. Enjoy the visually appealing design, smooth scrolling effects, and engaging content.
 
